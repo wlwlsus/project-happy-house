@@ -55,7 +55,7 @@
       <td>Front-End, Back-End</td>
     </tr>
     <tr>
-      <td>Back-End (Rest API 설계, SQL/Spring 디버깅, 이미지 업로드, 매물 조회 게시판 카테고리/키워드 검색 등 필요 API 추가, DB 테이블 수정 등)</td>
+      <td>Back-End (Rest API 설계, SQL/Spring 디버깅, 매물 조회 게시판 API 추가, DB 테이블 수정 등)</td>
     </tr>
     <tr>
       <td rowspan="2">강은진</td>
